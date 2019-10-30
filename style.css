@@ -1,0 +1,49 @@
+th {
+	border: 1.1px solid #AAA;
+	padding: 40px 50px 40px;
+background-color: lightgray
+
+}
+td{
+	 cursor: pointer;
+	border: 1.1px solid #AAA;
+	padding: 40px 50px 40px;
+	background-color: gray
+
+    
+}
+a {color: black}
+
+
+.oranje {
+ background-color: orange;}
+ 
+ .greeen {color: green}
+
+ .purple {
+ 	background-color: purple;
+ }
+ .lightBlue {
+ 	background-color: blue
+ }
+ .yellow {background-color: yellow}
+ @media (hover: hover) {
+ 	.oranje:hover {
+ 		background-color: lime
+ 	}
+ }
+  @media (hover: hover) {
+ 	.purple:hover {
+ 		background-color: lime
+ 	}
+ }
+ @media (hover: hover) {
+ 	.lightBlue:hover {
+ 		background-color: lime
+ 	}
+ }
+ @media (hover: hover) {
+ 	.yellow:hover {
+ 		background-color: lime
+ 	}
+ }
